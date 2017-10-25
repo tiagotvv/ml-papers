@@ -1,4 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ### Paper
 
 + **Title**: Deepr: A Convolutional Net for Medical Records
