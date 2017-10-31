@@ -6,6 +6,7 @@ Some of the summaries will also be available at [ShortScience.org](http://www.sh
 # Latest Additions
 ### Machine Learning applied to clinical data:
 
++ Oct 31, 2017: [Recurrent Neural Networks for Multivariate Time Series with Missing Values](./clinical-data/Recurrent_Neural_Networks_for_Multivariate_Time_Series_with_Missing_Values.md)
 + Oct 31, 2017: [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks](./clinical-data/Doctor_AI_Predicting_Clinical_Events_via_Recurrent_Neural_Networks.md)
 + Oct 27, 2017: [Deep Patient: An Unsupervised Representation to Predict the Future of Patients using Electronic Health Records](./clinical-data/Deep_Patient_An_Unsupervised_Representation_to_Predict_the_Future_of_Patients_using_Electronic_Health_Records.md)
 + Oct 26, 2017: [Modeling Missing Data in Clinical Time Series with RNNs](./clinical-data/Modeling_Missing_Data_in_Clinical_Time_Series_with_RNNs.md)
