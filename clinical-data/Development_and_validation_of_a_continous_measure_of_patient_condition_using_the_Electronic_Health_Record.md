@@ -1,6 +1,6 @@
 ### Paper
 
-+ **Title**: Development and validation of a continous measure of patient condition using the Electronic Health Record
++ **Title**: Development and validation of a continuous measure of patient condition using the Electronic Health Record
 + **Authors**: Michael J. Rothman, Steven I. Rothman, Joseph Beals IV
 + **URL**: https://www.ncbi.nlm.nih.gov/pubmed/23831554
 + **Year**: 2013
