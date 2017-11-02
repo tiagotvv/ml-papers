@@ -68,7 +68,7 @@ Model Creation | Model Validation
 
 + Tracking the Rothman Index and correlating it with events during hospital stay:
 
-![Evolution](images/Rothman2013_variables.png?raw=true "Evolution of Rothman Index during patient stay")
+![Evolution](images/Rothman2013_evolution.png?raw=true "Evolution of Rothman Index during patient stay")
 
 
 #### Discussion:
