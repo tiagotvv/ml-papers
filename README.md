@@ -6,6 +6,7 @@ Some of the summaries will also be available at [ShortScience.org](http://www.sh
 # Latest Additions
 ### Machine Learning applied to clinical data:
 
++ Nov 3, 2017: [Learning to Diagnose with LSTM Recurrent Neural Networks](./clinical-data/Learning_to_Diagnose_with_LSTM_Recurrent_Neural_Networks.md)
 + Nov 2, 2017: [Development and Validation of a Continuous Measure of Patient Condition using the Electronic Health Record](./clinical-data/Development_and_validation_of_a_continuous_measure_of_patient_condition_using_the_Electronic_Health_Record.md)
 + Oct 31, 2017: [Recurrent Neural Networks for Multivariate Time Series with Missing Values](./clinical-data/Recurrent_Neural_Networks_for_Multivariate_Time_Series_with_Missing_Values.md)
 + Oct 31, 2017: [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks](./clinical-data/Doctor_AI_Predicting_Clinical_Events_via_Recurrent_Neural_Networks.md)
