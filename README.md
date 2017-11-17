@@ -17,3 +17,6 @@ Some of the summaries will also be available at [ShortScience.org](http://www.sh
 
 ### Machine Learning theory:
 + Nov 8, 2017: [The Reusable Holdout: Preserving Validity in Adaptive Data Analysis](./theory/The_Reusable_Holdout_Preserving_Validity_in_Adaptive_Data_Analysis.md)
+
+### Convolutional Neural Networks:
++ Nov 17, 2017: [ImageNet Classification with Deep Convolutional Neural Networks](./convolutional/ImageNet_Classification_with_Deep_Convolutional_Neural_Networks.md)
