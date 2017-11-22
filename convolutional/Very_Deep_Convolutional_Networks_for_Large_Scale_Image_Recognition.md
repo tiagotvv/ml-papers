@@ -118,7 +118,7 @@ Configuration | Method | top-1 error (%) | top-5 error (%)
 D | dense | 24.8 | 7.5
 |  | multi-crop | 24.6 | 7.5
 |  | multi-crop & dense | **24.4** | **7.2** 
-D | dense | 24.8 | 7.5
+E | dense | 24.8 | 7.5
 |  | multi-crop | 24.6 | 7.4
 |  | multi-crop & dense | **24.4** | **7.1** 
  
