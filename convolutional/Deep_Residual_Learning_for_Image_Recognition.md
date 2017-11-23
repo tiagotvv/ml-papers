@@ -126,5 +126,6 @@ ResNet (ILSVRC'15) | **3.57**
     + Single 32x32 image
 
 + Results
+
  ![CIFAR-10 results](images/He2015_CIFAR.png?raw=true "CIFAR-10 results")
    
