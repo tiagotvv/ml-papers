@@ -112,8 +112,8 @@ ResNet (ILSVRC'15) | **3.57**
     
     output map size | 32x32 | 16x16 | 8x8
     ----------------|-------|-------|----
-    # layers | 1+2n | 2n | 2n
-    # filters | 16 | 32 | 64
+    num. layers | 1+2n | 2n | 2n
+    num. filters | 16 | 32 | 64
 
     + Shortcuts connected to pairs of 3x3 layers (3n shortcuts)  
 + Training
