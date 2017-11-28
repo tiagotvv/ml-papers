@@ -19,6 +19,7 @@ Some of the summaries will also be available at [ShortScience.org](http://www.sh
 + Nov 8, 2017: [The Reusable Holdout: Preserving Validity in Adaptive Data Analysis](./theory/The_Reusable_Holdout_Preserving_Validity_in_Adaptive_Data_Analysis.md)
 
 ### Convolutional Neural Networks:
++ Nov 28, 2017: [Network in Network](./convolutional/Network_in_Network.md)
 + Nov 23, 2017: [Deep Residual Learning for Image Recognition](./convolutional/Deep_Residual_Learning_for_Image_Recognition.md)
 + Nov 22, 2017: [Very Deep Convolutional Networks for Large-Scale Image Recognition](./convolutional/Very_Deep_Convolutional_Networks_for_Large_Scale_Image_Recognition.md)
 + Nov 17, 2017: [ImageNet Classification with Deep Convolutional Neural Networks](./convolutional/ImageNet_Classification_with_Deep_Convolutional_Neural_Networks.md)
